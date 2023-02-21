@@ -1,5 +1,7 @@
 # smart-brain-local
 
+https://smart-brain-frontend.herokuapp.com/
+
 1.register.
 
 2.input any image link as you like.
