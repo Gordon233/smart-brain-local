@@ -2,7 +2,7 @@
 
 https://smart-brain-frontend.herokuapp.com/
 
-1.register.
+1.register.(Enter any content to register )
 
 2.input any image link as you like.
 
